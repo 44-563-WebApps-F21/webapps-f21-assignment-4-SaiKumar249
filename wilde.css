@@ -36,3 +36,14 @@ h6{
     color: orangered;
     text-shadow: 2px 2px orange;
 }
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
