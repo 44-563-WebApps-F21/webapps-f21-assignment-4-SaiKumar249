@@ -10,29 +10,29 @@ h6{
     font-size: 14;
 }
 
-.stage directions{
+.stage-directions{
     background-color:yellowgreen;
     font-family: sans-serif;
 }
 
-.stage directions:hover{
+.stage-directions:hover{
     color : black;
     background-color: yellow;
     border: 1px solid;
     font-family: sans-serif;
 }
 
-.FIRST SOLDIER{
+.FIRST-SOLDIER{
     color: teal;
     text-shadow: 2px 2px turquoise;
 }
 
-.SECOND SOLDIER{
+.SECOND-SOLDIER{
     color: yellow;
     text-shadow: 2px 2px wheat;
 }
 
-.THIRD SOLDIER{
+.THIRD-SOLDIER{
     color: orangered;
     text-shadow: 2px 2px orange;
 }
