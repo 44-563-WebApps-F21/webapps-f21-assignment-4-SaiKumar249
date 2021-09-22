@@ -1,0 +1,38 @@
+h6{
+    color: black;
+    font-family: sans-serif;
+    font-size: 15;
+}
+
+.speech{
+    color:black;
+    font-family: sans-serif;
+    font-size: 14;
+}
+
+.stage directions{
+    background-color:yellowgreen;
+    font-family: sans-serif;
+}
+
+.stage directions:hover{
+    color : black;
+    background-color: yellow;
+    border: 1px solid;
+    font-family: sans-serif;
+}
+
+.FIRST SOLDIER{
+    color: teal;
+    text-shadow: 2px 2px turquoise;
+}
+
+.SECOND SOLDIER{
+    color: yellow;
+    text-shadow: 2px 2px wheat;
+}
+
+.THIRD SOLDIER{
+    color: orangered;
+    text-shadow: 2px 2px orange;
+}
